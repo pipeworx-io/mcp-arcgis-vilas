@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-vilas",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Vilas County GIS — Vilas County, Wisconsin open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-e5bd40fab36246c8dddb32306d2745d3c836ea23838252017a4e0a5a3b8837d5",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-801ab87c6c5f0634a4c13ff982307d75d1a28f2e448713333a339416e5c4b1cc",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
